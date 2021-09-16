@@ -5,4 +5,21 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-name="Abu Dhabi Sports 3" tvg-country="AE" tvg-language="" tvg-logo="" group-title="",Abu Dhabi Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-
+#EXTINF:-1,BEINSPORT 1 LOW PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+http://65.21.32.185:80/airmaxtvbenZX/o2Tu5bkhFP/860
+#EXTINF:-1,BEINSPORT 2 LOW PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+http://65.21.32.185:80/airmaxtvbenZX/o2Tu5bkhFP/861
+#EXTINF:-1,BEINSPORT 3 LOW PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+http://65.21.32.185:80/airmaxtvbenZX/o2Tu5bkhFP/862
+#EXTINF:-1,BEINSPORT 1 SD PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+http://65.21.32.185:80/airmaxtvbenZX/o2Tu5bkhFP/847
+#EXTINF:-1,BEINSPORT 2 SD PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+http://65.21.32.185:80/airmaxtvbenZX/o2Tu5bkhFP/848
+#EXTINF:-1,BEINSPORT 3 SD PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+http://65.21.32.185:80/airmaxtvbenZX/o2Tu5bkhFP/849
