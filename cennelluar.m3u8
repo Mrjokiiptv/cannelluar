@@ -1,10 +1,12 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="Abu Dhabi Sports 1" tvg-country="AE" tvg-language="" tvg-logo="" group-title="",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="Abu Dhabi Sports 2" tvg-country="AE" tvg-language="" tvg-logo="" group-title="",Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-name="Abu Dhabi Sports 3" tvg-country="AE" tvg-language="" tvg-logo="" group-title="",Abu Dhabi Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
 #EXTINF:-1,BEINSPORT 1 LOW PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 http://65.21.32.185:80/airmaxtvbenZX/o2Tu5bkhFP/860
@@ -14,8 +16,6 @@ http://65.21.32.185:80/airmaxtvbenZX/o2Tu5bkhFP/861
 #EXTINF:-1,BEINSPORT 3 LOW PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 http://65.21.32.185:80/airmaxtvbenZX/o2Tu5bkhFP/862
-
-
 
 #EXTINF:-1,BEINSPORT LOW 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
@@ -76,8 +76,15 @@ http://65.21.32.185:80/airmaxtvbenZX/o2Tu5bkhFP/857
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 http://65.21.32.185:80/airmaxtvbenZX/o2Tu5bkhFP/858
 
-
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports.png" group-title="CANAIS | ESPORTES",FOX SPORTS HD
 http://51.222.46.117:80/r7xeur0v0/5nmhopxn8/771171
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
 http://51.222.46.117:80/r7xeur0v0/5nmhopxn8/771168
+
+#EXTINF:-1 tvg-id="GolfChannelThailandHD.th" tvg-name="Golf Channel Thailand HD" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-golf.png" group-title="Sports",Golf Channel Thailand HD (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/CKnSeT7.png" group-title="",ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
